@@ -1,0 +1,13 @@
+package com.vishal.reactive;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringBootWebFluxDemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringBootWebFluxDemoApplication.class, args);
+	}
+
+}
